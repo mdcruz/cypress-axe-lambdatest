@@ -1,0 +1,17 @@
+{
+  "name": "cypress-axe-lambdatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^4.4.2",
+    "cypress": "^9.2.0",
+    "cypress-axe": "^0.14.0"
+  }
+}
