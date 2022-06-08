@@ -11,7 +11,7 @@ A simple project to demonstrate cypress-axe and how to run it on LambdaTest Cypr
 Clone this project locally by:
 
 ```bash
-git clone
+git clone https://github.com/mdcruz/cypress-axe-lambdatest.git
 cd cypress-axe-lambdatest
 ```
 
